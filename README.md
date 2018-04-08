@@ -1,29 +1,18 @@
-# README #
+Agent Real Time Analysis Stats View
 
-This README would normally document whatever steps are necessary to get your application up and running.
+
 
 ### What is this repository for? ###
 
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
+* Contains code of contact Centre RealTime Agent View; Core Contact Centre solution i.e UCCX/UCCE/PCCE required to fully Run the project.
+
+
 
 ### How do I get set up? ###
 
-* Summary of set up
+* Summary of set up:Essential .net Library files required
 * Configuration
 * Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
+* Database configuration: Informix/MsSQLServer
+* Deployment instructions: Call me: 0713003790
 
-### Contribution guidelines ###
-
-* Writing tests
-* Code review
-* Other guidelines
-
-### Who do I talk to? ###
-
-* Repo owner or admin
-* Other community or team contact
